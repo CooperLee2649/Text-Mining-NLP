@@ -8,7 +8,7 @@ Sys.setlocale('LC_ALL','C')
 
 #### 
 # set your working directory
-
+setwd("C:/Users/17600/Desktop/NLP/clone/Text-Mining-NLP/HW/HW1")
 
 # Load the following libraries ggplot2, ggthemes stringi, and tm
 
